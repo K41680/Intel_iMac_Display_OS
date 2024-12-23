@@ -1,0 +1,35 @@
+# compatibility.py
+
+IMAC_MODELS = {
+    "iMac4,1": "Early 2006",
+    "iMac5,1": "Late 2006",
+    "iMac5,2": "Late 2006",
+    "iMac6,1": "Late 2006",
+    "iMac7,1": "Mid 2007",
+    "iMac8,1": "Early 2008",
+    "iMac9,1": "Early 2009",
+    "iMac10,1": "Late 2009",
+    "iMac11,1": "Late 2009",
+    "iMac11,2": "Mid 2010",
+    "iMac11,3": "Mid 2010",
+    "iMac12,1": "Mid 2011",
+    "iMac12,2": "Mid 2011",
+    "iMac13,1": "Late 2012",
+    "iMac13,2": "Late 2012",
+    "iMac14,1": "Late 2013",
+    "iMac14,2": "Late 2013",
+    "iMac14,3": "Late 2013",
+    "iMac14,4": "Mid 2014",
+    "iMac15,1": "Late 2014",
+    "iMac16,1": "Late 2015",
+    "iMac16,2": "Late 2015",
+    "iMac17,1": "Late 2015",
+    "iMac18,1": "Mid 2017",
+    "iMac18,2": "Mid 2017",
+    "iMac18,3": "Mid 2017",
+    "iMac19,1": "2019",
+    "iMac19,2": "2019",
+    "iMac20,1": "2020",
+    "iMac20,2": "2020"
+    # Add more models as required
+}
