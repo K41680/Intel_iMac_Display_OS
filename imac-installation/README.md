@@ -17,6 +17,7 @@ This project aims to repurpose an Intel-based iMac as an external display, allow
    - **Linux**: Open Terminal, navigate to the directory, and run `./build_iso.sh`.
 
 ## Usage
+0. BE SURE TO ALWAYS READ EVERYTHING SHOWN IN YOUR TERMINAL IF THERE IS ANY ERROR, THIS MIGHT EXPLAIN SOME ISSUES, THE SAME GOES FOR WHEN YOU'D NEED TO INSTALL OTHER TOOLS (eg. chocolaty or python)
 1. Boot the iMac from the created ISO.
 2. Follow the on-screen instructions to complete the installation.
 
